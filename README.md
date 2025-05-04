@@ -34,8 +34,6 @@ heart-disease-analysis/
 ├── data/                  # Dataset files (CSV)
 ├── notebooks/             # Jupyter Notebooks for EDA and model building
 ├── models/                # Trained models (optional)
-├── src/                   # Source code (scripts, utils)
-├── visuals/               # Plots and graphs
 ├── README.md              # Project documentation
 
 ```
@@ -81,8 +79,6 @@ Include plots like:
 * Feature importance
 * Confusion matrix
 
-(Add images or links to visualizations in the `visuals/` folder)
-
 ---
 
 ## 🧠 Future Improvements
@@ -97,7 +93,6 @@ Include plots like:
 
 ## 🙌 Acknowledgements
 
-* UCI Machine Learning Repository
 * Scikit-learn documentation
 
 
