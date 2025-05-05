@@ -54,7 +54,7 @@ heart-disease-analysis/
 
    ```bash
    git clone https://github.com/shubham141/Heart-Disease-Prediction
-   cd heart-disease-analysis
+   cd Heart-Disease-Prediction
    ```
 
 2. Install the dependencies:
